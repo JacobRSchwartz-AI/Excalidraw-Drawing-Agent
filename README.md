@@ -1,5 +1,7 @@
 # Magiscribe Drawing Agent System
 
+Built with [Excalidraw](https://excalidraw.com/) - the open-source virtual whiteboard
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-58c4dc.svg?style=for-the-badge&logo=react&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
